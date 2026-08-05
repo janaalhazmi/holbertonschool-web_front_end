@@ -642,7 +642,7 @@ ul.row{
     position: relative;
 }
 
-.card-testimonial .card-outer::before{
+.card-testimonial .card-quote::before{
     content: "\201C";
     position: absolute;
     top: -4.5rem;
